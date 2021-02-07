@@ -1,0 +1,37 @@
+Write a single Java Program in Eclipse to do the following:
+
+- Ask the user to enter a sentence in English (one line, any length)
+
+- Output the following based on the sentence:
+
+1) Number of words in the sentence
+
+2) Number of Vowels and Number of Consonants in the sentence (include multiple occurrences)
+
+3) The number of occurrence of each letter of the Alphabet in the sentence (output in Alphabetical order)- Ignore case.
+
+Upload ONLY .java file (no projects, folders or ZIP files)
+
+Example Output:
+
+Input Sentence: Now is the time
+
+Number of words: 4
+
+Number of Vowels: 5
+
+Number of Consonants: 7
+
+Frequency of Letters:
+
+e - 2
+h -1
+i - 2
+m -1
+n -1
+o -1
+s -1
+t - 2
+w -1
+
+-------------
