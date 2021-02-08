@@ -28,8 +28,7 @@ public class Assignment_One {
 		
 		//update the word count
 		wordCount = splitString.length;
-		
-		
+				
 		/*
 		 * get rid of everything that isn't a letter like ! and ', etc
 		 * make everything lowercase
