@@ -1,0 +1,6 @@
+Star Wars,2017,2.3
+Star Wars,2015,2.2
+Forest Gump,1994,2.2
+Pulp Fiction,2008,1.89
+The Lion King,2019,2.2
+The Godfather,1974,2.1
